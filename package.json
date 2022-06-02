@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/austin4idps/Git-Flow.git",
   "author": "Austin <austin@4idps.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev" : "node src/app.js"
+  }
 }
