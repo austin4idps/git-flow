@@ -1,2 +1,5 @@
-const app = "this is dev ";
-console.log(app)
+import { random } from "./random/random.mjs";
+
+const app = "This is dev ";
+console.log(app);
+random();
